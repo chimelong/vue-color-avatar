@@ -10,7 +10,7 @@
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
-        LeoKu
+        XIHAO
       </a>
     </div>
 
