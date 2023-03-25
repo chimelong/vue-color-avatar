@@ -6,7 +6,7 @@
 
     <div class="header-right">
       <a
-        href="https://github.com/chimelong.github.io"
+        href="https://github.com/chimelong"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
